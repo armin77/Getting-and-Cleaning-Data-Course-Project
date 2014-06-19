@@ -21,7 +21,7 @@ These are:
 * UCI HAR Dataset//test//y_test.txt
 * UCI HAR Dataset//test//subject_test.txt
 
-A combined dataset is created (named __tidy_test_and_training.txt__). This includes all data from the Training- and the Test-set. It also includes also three new columns described in the associated [CodeBook](./CodeBook.md])
+A combined dataset is created (named __tidy_test_and_training.txt__). This includes all data from the Training- and the Test-set. It also includes also three new columns described in the associated __CodeBook.md__.
 
 A second dataset is created containing the averages for each column for the subjects and their activities. (named __tidy_averages.txt__)
 
